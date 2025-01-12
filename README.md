@@ -22,8 +22,10 @@ Because sharing is caring! Feel free to poke around, borrow ideas, or contribute
 Explore the Awesomeness:
 Check out the folders and files for topics that spark your interest.
 
-Contribute to the Fun:
+
+#### Contribute to the Fun
 Got something cool to add? Fork the repo and send a pull request. Let's build this treasure trove together!
+
 
 #### Let's Connect!
 Love what you see? Got ideas? Want to chat? Hit me up! I’m always excited to connect with like-minded folks and collaborate on new adventures.
