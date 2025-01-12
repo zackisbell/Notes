@@ -13,5 +13,5 @@ A fun recreation of the classic Google homepage. Except it has a 'Z' for 'Zack'.
 
 #### Future Plans
 - [x] Change the browser tab description to "Zoogle Home Page" instead of "Google Home Page" 
-- [] Make the search work, except the results are always about me
-- [] Make the I'm Feeling Lucky Work by sending you to my portfolio
+- [ ] Make the search work, except the results are always about me
+- [ ] Make the I'm Feeling Lucky Work by sending you to my portfolio
