@@ -28,4 +28,4 @@ Got something cool to add? Fork the repo and send a pull request. Let's build th
 #### Let's Connect!
 Love what you see? Got ideas? Want to chat? Hit me up! I’m always excited to connect with like-minded folks and collaborate on new adventures.
 
-Happy exploring! 🚀
+### Happy exploring!
