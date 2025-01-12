@@ -13,9 +13,7 @@ Welcome to my **Notes** repository, where I share all the cool stuff I’ve lear
 
 Because sharing is caring! Feel free to poke around, borrow ideas, or contribute!
 
-## How to Get Started
-
-1. **Clone the Repo**:  
+## Clone the Repo
    Ready to dive in? Clone this bad boy and start exploring:  
    ```bash
    git clone https://github.com/zackisbell/Notes.git
