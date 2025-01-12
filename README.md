@@ -18,9 +18,8 @@ Because sharing is caring! Feel free to poke around, borrow ideas, or contribute
    ```bash
    git clone https://github.com/zackisbell/Notes.git
    ```
-Explore the Awesomeness:
+**Explore the Awesomeness**\
 Check out the folders and files for topics that spark your interest.
-
 
 **Contribute to the Fun**\
 Got something cool to add? Fork the repo and send a pull request. Let's build this treasure trove together!
