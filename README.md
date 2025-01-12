@@ -17,6 +17,7 @@ Because sharing is caring! Feel free to poke around, borrow ideas, or contribute
    Ready to dive in? Clone this bad boy and start exploring:  
    ```bash
    git clone https://github.com/zackisbell/Notes.git
+   ```
 Explore the Awesomeness:
 Check out the folders and files for topics that spark your interest.
 
