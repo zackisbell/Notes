@@ -33,7 +33,8 @@ Where my bio, experience, and passion projects meet.
 - [ ] Update resume pdf
 - [ ] Combine the two roles at Southern Controls in some neat way
 - [ ] Move the text at the bottom left of the footer to the right side
-- [ ] Give the background a gradient or effect\
+- [ ] Give the background a gradient or effect
+- [ ] Apply [typewriter effect](https://www.youtube.com/shorts/fTOcWMD_5pk) to my name once site loads
 
 ### Crystal Math
 A simple Tailwind CSS practice project (project template by [smoljames on YouTube](https://youtu.be/W-LDhPyv478))
