@@ -15,9 +15,7 @@ A fun recreation of the classic Google homepage. Except it has a 'Z' for 'Zack'.
 #### Future Plans
 - [x] Change the browser tab description to "Zoogle Home Page" instead of "Google Home Page" 
 - [ ] Make the search work, except the results are always about me
-- [ ] Make the I'm Feeling Lucky Work by sending you to my portfolio
-
-\
+- [ ] Make the I'm Feeling Lucky Work by sending you to my portfolio\
 
 ### My Portfolio V1
 Where my bio, experience, and passion projects meet.
@@ -35,9 +33,7 @@ Where my bio, experience, and passion projects meet.
 - [ ] Update resume pdf
 - [ ] Combine the two roles at Southern Controls in some neat way
 - [ ] Move the text at the bottom left of the footer to the right side
-- [ ] Give the background a gradient or effect
-
-\
+- [ ] Give the background a gradient or effect\
 
 ### Crystal Math
 A simple Tailwind CSS practice project (project template by [smoljames on YouTube](https://youtu.be/W-LDhPyv478))
