@@ -17,6 +17,8 @@ A fun recreation of the classic Google homepage. Except it has a 'Z' for 'Zack'.
 - [ ] Make the search work, except the results are always about me
 - [ ] Make the I'm Feeling Lucky Work by sending you to my portfolio
 
+\
+
 ### My Portfolio V1
 Where my bio, experience, and passion projects meet.
 
@@ -32,3 +34,17 @@ Where my bio, experience, and passion projects meet.
 - [ ] Animate the arrow links to be similar to the full project archive
 - [ ] Update resume pdf
 - [ ] Combine the two roles at Southern Controls in some neat way
+- [ ] Move the text at the bottom left of the footer to the right side
+- [ ] Give the background a gradient or effect
+
+\
+
+### Crystal Math
+A simple Tailwind CSS practice project (project template by [smoljames on YouTube](https://youtu.be/W-LDhPyv478))
+
+- Here's a link to the [repo](https://github.com/zackisbell/crystal-math)
+- Here's a link to [Crystal Math](https://zackscrystalmath.netlify.app/)
+
+#### Version History
+- **1-12-2025** Inital Commit
+- **1-12-2025** Updated readme.md
